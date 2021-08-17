@@ -1,5 +1,7 @@
 # Welcome! 👋
 
+
+
 My name is Eduardo and welcome to my Github profile.
 I'm a Senior Java Engineer working profesionally with Java projects since 2012. You can visit my bio at [Linkedin](http://www.linkedin.com/in/eduardodediegolucas).
 
@@ -26,7 +28,7 @@ As Github suggested, let's put some ideas:
 
 - 🔭 I’m currently working on ... Java microservices with SpringBoot in an Openshift cloud!
 - 🌱 I’m currently learning ... languages such as Japanese and German! Also new cloud and event-sourcing technologies.
-- 👯 I’m looking to collaborate on ... some Java projeces, libs or update deprecated ones!
+- 👯 I’m looking to collaborate on ... some Java projects, libs or update deprecated ones!
 - 💬 Ask me about ... Java, Maven, whatever you can find in the Knowledge section.
 -  📫 How to reach me: ... my [Linkedin](http://www.linkedin.com/in/eduardodediegolucas) bio!
 - ⚡ Fun fact: ... I love videogames, 80's culture and retro footbal!
