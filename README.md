@@ -20,7 +20,8 @@ I have two degrees, Telecommunications (Electronic) Engineer + Computer Science.
 ## Knowledge
 
 * __Java__: JDK8, JDK11, J2EE
-* __Frameworks/Libs__: Spring, Hibernate, CDI/Weld, Spring Boot, Quarkus, Flyway, rxJava, JUnit4/5, Cucumber Database: Oracle, MySQL, PostgresSQL, MongoDB, DB2
+* __Frameworks/Libs__: Spring, Hibernate, CDI/Weld, Spring Boot, Quarkus, Flyway, rxJava, JUnit4/5, Cucumber 
+* __Database__: Oracle, MySQL, PostgresSQL, MongoDB, DB2
 * __Version Control__: Git, SVN, Mercurial
 * __Others__: Maven, Gradle, Docker, OpenShift, Apache Kafka, Apache Spark, REST, SOAP, gRPC
 
@@ -31,4 +32,4 @@ As Github suggested, let's put some ideas:
 - 👯 I’m looking to collaborate on ... some Java projects, libs or update deprecated ones!
 - 💬 Ask me about ... Java, Maven, whatever you can find in the Knowledge section.
 -  📫 How to reach me: ... my [Linkedin](http://www.linkedin.com/in/eduardodediegolucas) bio!
-- ⚡ Fun fact: ... I love videogames, 80's culture and retro footbal!
+- ⚡ Fun fact: ... I love videogames, modern history, 80's culture and retro footbal!
